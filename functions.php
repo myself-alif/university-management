@@ -1,5 +1,6 @@
 <?php
 require get_theme_file_path('/inc/search-route.php');
+require get_theme_file_path('/inc/post_types.php');
 require get_theme_file_path('/inc/like-route.php');
 function university_assets()
 {
